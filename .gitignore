@@ -36,4 +36,4 @@ yarn-error.log*
 next-env.d.ts
 
 # keys
-/data/trelloKeys.ts
+trelloKeys.ts
